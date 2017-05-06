@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "tid": "1",
+      "title": "哈哈哈？你可爱吗？",
+      "thumbnail": "http://gqianniu.alicdn.com/bao/uploaded/i4//tfscom/i3/TB10LfcHFXXXXXKXpXXXXXXXXXX_!!0-item_pic.jpg_250x250q60.jpg",
+      "advertiser": "小卷毛",
+      "advertisertion": "好像一条狗",
+      "read_profit": "8",
+      "person":"狗",
+      "type": "0",
+      "status": "1",
+      "created": "1452139945"
+    },
+    {
+      "tid": "2",
+      "title": "看看你到底有多污？",
+      "thumbnail": "http://gqianniu.alicdn.com/bao/uploaded/i4//tfscom/i3/TB10LfcHFXXXXXKXpXXXXXXXXXX_!!0-item_pic.jpg_250x250q60.jpg",
+      "advertiser": "大脸猫",
+      "advertisertion": "真是一只猫",
+      "status": "0",
+      "person":"猫",
+      "type": "1",
+      "read_profit": "5",
+      "created": "1452094126"
+    }
+  ]
+}
